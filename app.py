@@ -1,6 +1,5 @@
 import gradio as gr
 
-# 🔧 MentorBot core logic with full answers
 def mentor_bot(message):
     message = message.lower().strip()
 
